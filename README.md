@@ -6,7 +6,7 @@ Setup
 
 ---
 
-1- https://github.com/pyvrax/GREENEYE-SCANNER.git
+1- git clone https://github.com/pyvrax/GREENEYE-SCANNER.git
 
 ---
 
